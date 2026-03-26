@@ -30,9 +30,7 @@ Plotly, Jupyter Notebook
 
 # Project Details
 
-## 1. Heart Disease Prediction
-**Course:** M505 Introduction to AI and Machine Learning —
-Gisma University of Applied Sciences, Winter 2026
+## Heart Disease Prediction
 
 **Dataset:** UCI Heart Disease (Cleveland) —
 1,025 patients, 13 clinical features
