@@ -42,7 +42,7 @@ has heart disease based on routine clinical measurements.
 **Pipeline Steps:**
 - Exploratory Data Analysis (distributions, correlation
   heatmap, class balance)
-- Data preprocessing (StandardScaler inside Pipeline,
+- Data preprocessing (RobustScaler inside Pipeline,
   one-hot encoding of nominal features)
 - Stratified 80/20 train-test split
 - Hyperparameter tuning via GridSearchCV (5-Fold CV)
